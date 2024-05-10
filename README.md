@@ -71,7 +71,7 @@ h1 {
 <div class="edge">
     <div class="box">
         <h1>Surfacearea of Right Cylinder</h1>
-        <h3>JAYASEELAN U(212223220039)</h3>
+        <h3>VIGNESH M(212223240176)</h3>
         <form method="POST">
             {% csrf_token %}
             <div class="formelt">
